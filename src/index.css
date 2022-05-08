@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+body {
+  background-color: black;
+  margin: 0;
+  font-family: "Staatliches", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.white {
+  color: white;
+}
+
+.no-pad {
+  padding: 0;
+}
+
+.decoration-blacky {
+  text-decoration-color: #84cc16;
+}
+
+.large {
+  font-size: 8rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.decoration-lime {
+  text-decoration-color: #84cc16;
+}
+
+.medium-1 {
+  font-size: 2rem;
+}
+
+.medium {
+  font-size: 1.5rem;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.padded {
+  padding: 3rem;
+}
+
+.half {
+  width: 32%;
+}
+
+.decoration-double {
+  text-decoration-style: double;
+}
+
+.decoration-1 {
+  text-decoration-thickness: 6px;
+}
